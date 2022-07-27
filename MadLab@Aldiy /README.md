@@ -1,6 +1,6 @@
 # MQTT audio/display notifier
 
-Hello , As this is the first time we post a finished code, please excuse the mess , we promise we will try to do better documentation next time .This project is 99% from https://www.instructables.com/MQTT-Audio-Notifier-for-ESP8266-Play-MP3-TTS-RTTL/  which has an excellent documentation  , we just added a matrix to the audio-notifier  code . We are using TM1640 library with 8x16  but matrix size and type  is flexible and can be changed .   We have tested on esp8266 and esp32 and both worked .
+Hello , As this is the first time we post a finished code, please excuse the mess , we promise we will try to do better documentation next time .This project is 99% from https://www.instructables.com/MQTT-Audio-Notifier-for-ESP8266-Play-MP3-TTS-RTTL/  & https://github.com/schmurtzm/MrDiy-Audio-Notifier  which has an excellent documentation  , we just added a matrix to the audio-notifier  code . We are using TM1640 library with 8x16  but matrix size and type  is flexible and can be changed .   We have tested on esp8266 and esp32 and both worked .
 
 Prototype part list : ( That is assuming you will build a proper PCB later ) 
 
