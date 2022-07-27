@@ -12,5 +12,5 @@ Matrix or a display  https://www.aliexpress.com/item/32905525496.html
 
 Small speaker ( salvage )
 
-This and other similar projects  are mostly done for educational purposes with students so your feedback is most welcomed and will be tested , so make it a challenge .
+This and other similar projects  are mostly done for educational purposes with students so your feedback is most welcomed and will be tested , so make it is a challenge .
 Cheers
