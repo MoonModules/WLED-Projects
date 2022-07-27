@@ -4,10 +4,10 @@ Hello , As this is the first time we post a finished code, please excuse the mes
 
 Prototype part list : ( That is assuming you will build a proper PCB later ) 
 
-Esp8266/32 (this code is optimized for esp32) 
-PAM8403 amplifier  https://www.aliexpress.com/item/32574110297.html  
-Matrix or a display  https://www.aliexpress.com/item/32905525496.html?
-Small speaker ( salvage )   
+Esp8266/32 (this code is optimized for esp32)
+PAM8403 amplifier  https://www.aliexpress.com/item/32574110297.html
+Matrix or a display  https://www.aliexpress.com/item/32905525496.html
+Small speaker ( salvage )
 
 This and other similar projects  are mostly done for educational purposes with students so your feedback is most welcomed and will be tested , so make it a challenge .
 Cheers
